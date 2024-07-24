@@ -1,0 +1,263 @@
+{
+    "data" : {
+        "obj-1":{
+            "id":1 ,
+            "img": "https://preview.colorlib.com/theme/libro/images/image_1.jpg",
+            "span": "JULY 29, 2018 ADMIN",
+            "h1": "Life looks happier",
+            "p": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+        },
+        "obj-2":{
+            "id":2 ,
+            "img": "https://preview.colorlib.com/theme/libro/images/image_5.jpg",
+            "span": "JULY 29, 2018 ADMIN",
+            "h1": "Life looks happier",
+            "p": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+        },
+        "obj-3":{
+            "id":3 ,
+            "img": "https://preview.colorlib.com/theme/libro/images/image_2.jpg",
+            "span": "JULY 29, 2018 ADMIN",
+            "h1": "Life looks happier",
+            "p": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+        },
+        "obj-4":{
+            "id":4 ,
+            "img": "https://preview.colorlib.com/theme/libro/images/image_6.jpg",
+            "span": "JULY 29, 2018 ADMIN",
+            "h1": "Life looks happier ",
+            "p": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+        },
+        "obj-5":{
+            "id":5 ,
+            "img": "https://preview.colorlib.com/theme/libro/images/image_3.jpg",
+            "span": "JULY 29, 2018 ADMIN",
+            "h1": "Life looks happier",
+            "p": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+        },
+        "obj-6":{
+            "id":6 ,
+            "img": "https://preview.colorlib.com/theme/libro/images/image_7.jpg",
+            "span": "JULY 29, 2018 ADMIN",
+            "h1": "Life looks happier",
+            "p": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+        },
+        "obj-7":{
+            "id":7 ,
+            "img": "https://preview.colorlib.com/theme/libro/images/image_4.jpg",
+            "span": "ULY 29, 2018 ADMIN",
+            "h1": "Life looks happier",
+            "p": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+        },
+        "obj-8":{
+            "id":8 ,
+            "img": "https://preview.colorlib.com/theme/libro/images/image_8.jpg",
+            "span": "JULY 29, 2018 ADMIN",
+            "h1": "Life looks happier",
+            "p": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+        }
+    },
+
+    "dataFashion" : {
+        "obj-1" :{
+            "id": 1,
+            "video" : "",
+            "img": "https://preview.colorlib.com/theme/libro/images/image_1.jpg",
+            "span" : "Admin July 29, 2018 Video 12 Comments",
+            "h1": "Watch video tutorial on how to make do photoshop edting",
+            "p" : "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text."
+        },
+        "obj-2" :{
+            "id": 2,
+            "video" : "",
+            "img": "https://preview.colorlib.com/theme/libro/images/image_5.jpg",
+            "span" : "Admin July 29, 2018 Fashion 12 Comments",
+            "h1": "The Big Oxmox advised her not to do so, because there",
+            "p" : "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text."
+        },
+        "obj-3" :{
+            "id": 3,
+            "video" : "",
+            "img": "https://preview.colorlib.com/theme/libro/images/image_2.jpg",
+            "span" : "Admin July 29, 2018 Fashion 12 Comments",
+            "h1": "The Big Oxmox advised her not to do so, because there",
+            "p" : "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text."
+        },
+        "obj-4" :{
+            "id": 4,
+            "video" : "",
+            "img": "https://preview.colorlib.com/theme/libro/images/image_6.jpg",
+            "span" : "Admin July 29, 2018 Fashion 12 Comments",
+            "h1": "The Big Oxmox advised her not to do so, because there",
+            "p" : "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text"
+        },
+        "obj-5" :{
+            "id": 5,
+            "video" : "",
+            "img": "https://preview.colorlib.com/theme/libro/images/image_3.jpg",
+            "span" : "Admin July 29, 2018 Fashion 12 Comments",
+            "h1": "The Big Oxmox advised her not to do so, because there",
+            "p" : "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text."
+        },
+        "obj-6" :{
+            "id": 6,
+            "video" : "",
+            "img": "https://preview.colorlib.com/theme/libro/images/image_7.jpg",
+            "span" : "Admin July 29, 2018 Fashion 12 Comments",
+            "h1": "The Big Oxmox advised her not to do so, because there",
+            "p" : "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text."
+        }
+    },
+
+    "artists" : {
+        "obj-1" : {
+            "id": 1,
+            "link" : "obj-1",
+            "img": "https://preview.colorlib.com/theme/libro/images/image_1.jpg",
+            "h3": "MODEL",
+            "h1": "2018 Super Asia Model",
+            "textUser" : {
+                "img": "https://preview.colorlib.com/theme/libro/images/image_1.jpg",
+                "name" : "obj-1",
+                "p" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellat hic ad ipsa temporibus consequuntur ducimus porro, facere pariatur autem ipsum, ullam sed cum. Assumenda error neque tempora tempore perspiciatis eaque quidem quam expedita dolorum accusantium placeat labore illum aperiam animi, modi ipsa nisi libero? Delectus quidem placeat obcaecati eum reiciendis."
+            }
+        },
+        "obj-2" : {
+            "id": 2,
+            "link" : "obj-2",
+            "img": "https://preview.colorlib.com/theme/libro/images/image_5.jpg",
+            "h3": "MODEL",
+            "h1": "2018 Super Asia Model",
+            "textUser" : {
+                "img": "https://preview.colorlib.com/theme/libro/images/image_5.jpg",
+                "name" : "obj-2",
+                "p" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellat hic ad ipsa temporibus consequuntur ducimus porro, facere pariatur autem ipsum, ullam sed cum. Assumenda error neque tempora tempore perspiciatis eaque quidem quam expedita dolorum accusantium placeat labore illum aperiam animi, modi ipsa nisi libero? Delectus quidem placeat obcaecati eum reiciendis."
+            }
+        },
+        "obj-3" : {
+            "id": 3,
+            "link" : "obj-3",
+            "img": "https://preview.colorlib.com/theme/libro/images/image_2.jpg",
+            "h3": "MODEL",
+            "h1": "2018 Super Asia Model",
+            "textUser" : {
+                "img": "https://preview.colorlib.com/theme/libro/images/image_2.jpg",
+                "name" : "obj-3",
+                "p" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellat hic ad ipsa temporibus consequuntur ducimus porro, facere pariatur autem ipsum, ullam sed cum. Assumenda error neque tempora tempore perspiciatis eaque quidem quam expedita dolorum accusantium placeat labore illum aperiam animi, modi ipsa nisi libero? Delectus quidem placeat obcaecati eum reiciendis."
+            }
+        },
+        "obj-4" : {
+            "id": 4,
+            "link" : "obj-4",
+            "img": "https://preview.colorlib.com/theme/libro/images/image_6.jpg",
+            "h3": "MODEL",
+            "h1": "2018 Super Asia Model",
+            "textUser" : {
+                "img": "https://preview.colorlib.com/theme/libro/images/image_6.jpg",
+                "name" : "obj-4",
+                "p" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellat hic ad ipsa temporibus consequuntur ducimus porro, facere pariatur autem ipsum, ullam sed cum. Assumenda error neque tempora tempore perspiciatis eaque quidem quam expedita dolorum accusantium placeat labore illum aperiam animi, modi ipsa nisi libero? Delectus quidem placeat obcaecati eum reiciendis."
+            }
+        },
+        "obj-5" : {
+            "id": 5,
+            "link" : "obj-5",
+            "img": "https://preview.colorlib.com/theme/libro/images/image_3.jpg",
+            "h3": "MODEL",
+            "h1": "2018 Super Asia Model",
+            "textUser" : {
+                "img": "https://preview.colorlib.com/theme/libro/images/image_3.jpg",
+                "name" : "obj-5",
+                "p" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellat hic ad ipsa temporibus consequuntur ducimus porro, facere pariatur autem ipsum, ullam sed cum. Assumenda error neque tempora tempore perspiciatis eaque quidem quam expedita dolorum accusantium placeat labore illum aperiam animi, modi ipsa nisi libero? Delectus quidem placeat obcaecati eum reiciendis."
+            }
+        },
+        "obj-6" : {
+            "id": 6,
+            "link" : "obj-6",
+            "img": "https://preview.colorlib.com/theme/libro/images/image_7.jpg",
+            "h3": "MODEL",
+            "h1": "2018 Super Asia Model",
+            "textUser" : {
+                "img": "https://preview.colorlib.com/theme/libro/images/image_7.jpg",
+                "name" : "obj-6",
+                "p" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellat hic ad ipsa temporibus consequuntur ducimus porro, facere pariatur autem ipsum, ullam sed cum. Assumenda error neque tempora tempore perspiciatis eaque quidem quam expedita dolorum accusantium placeat labore illum aperiam animi, modi ipsa nisi libero? Delectus quidem placeat obcaecati eum reiciendis."
+            }
+        },
+        "obj-7" : {
+            "id": 7,
+            "link" : "obj-7",
+            "img": "https://preview.colorlib.com/theme/libro/images/image_4.jpg",
+            "h3": "MODEL",
+            "h1": "2018 Super Asia Model",
+            "textUser" : {
+                "img": "https://preview.colorlib.com/theme/libro/images/image_4.jpg",
+                "name" : "obj-7",
+                "p" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellat hic ad ipsa temporibus consequuntur ducimus porro, facere pariatur autem ipsum, ullam sed cum. Assumenda error neque tempora tempore perspiciatis eaque quidem quam expedita dolorum accusantium placeat labore illum aperiam animi, modi ipsa nisi libero? Delectus quidem placeat obcaecati eum reiciendis."
+            }
+        },
+        "obj-8" : {
+            "id": 8,
+            "link" : "obj-8",
+            "img": "https://preview.colorlib.com/theme/libro/images/image_8.jpg",
+            "h3": "MODEL",
+            "h1": "2018 Super Asia Model",
+            "textUser" : {
+                "img": "https://preview.colorlib.com/theme/libro/images/image_8.jpg",
+                "name" : "obj-8",
+                "p" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellat hic ad ipsa temporibus consequuntur ducimus porro, facere pariatur autem ipsum, ullam sed cum. Assumenda error neque tempora tempore perspiciatis eaque quidem quam expedita dolorum accusantium placeat labore illum aperiam animi, modi ipsa nisi libero? Delectus quidem placeat obcaecati eum reiciendis."
+            }
+        }
+    },
+
+    "travel" : {
+        "obj-1":{
+            "id": 1,
+            "img": "https://preview.colorlib.com/theme/libro/images/image_1.jpg",
+            "h1": "The Big Oxmox advised her not to do so, because there", 
+            "span": "Admin July 29, 2018 Fashion 12 Comments",
+            "p": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text."
+        },
+        "obj-2":{
+            "id": 2,
+            "img": "https://preview.colorlib.com/theme/libro/images/image_5.jpg",
+            "h1": "The Big Oxmox advised her not to do so, because there", 
+            "span": "Admin July 29, 2018 Fashion 12 Comments",
+            "p": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text."
+        },
+        "obj-3":{
+            "id": 3,
+            "img": "https://preview.colorlib.com/theme/libro/images/image_2.jpg",
+            "h1": "The Big Oxmox advised her not to do so, because there", 
+            "span": "Admin July 29, 2018 Fashion 12 Comments",
+            "p": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text."
+        },
+        "obj-4":{
+            "id": 4,
+            "img": "https://preview.colorlib.com/theme/libro/images/image_6.jpg",
+            "h1": "The Big Oxmox advised her not to do so, because there", 
+            "span": "Admin July 29, 2018 Fashion 12 Comments",
+            "p": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text."
+        },
+        "obj-5":{
+            "id": 5,
+            "img": "https://preview.colorlib.com/theme/libro/images/image_3.jpg",
+            "h1": "The Big Oxmox advised her not to do so, because there", 
+            "span": "Admin July 29, 2018 Fashion 12 Comments",
+            "p": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text."
+        },
+        "obj-6":{
+            "id": 6,
+            "img": "https://preview.colorlib.com/theme/libro/images/image_7.jpg",
+            "h1": "The Big Oxmox advised her not to do so, because there", 
+            "span": "Admin July 29, 2018 Fashion 12 Comments",
+            "p": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text."
+        },
+        "obj-7":{
+            "id": 7,
+            "img": "https://preview.colorlib.com/theme/libro/images/image_4.jpg",
+            "h1": "The Big Oxmox advised her not to do so, because there", 
+            "span": "Admin July 29, 2018 Fashion 12 Comments",
+            "p": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text."
+        }
+    }
+
+}
